@@ -33,4 +33,5 @@ Com o EMR, você pode executar workloads complexas de **processamento de dados, 
 -  **Integração com ecossistema AWS** → armazene no S3, visualize no QuickSight, gerencie permissões com IAM e Lake Formation.  
 
 Link EMR no EKS: https://docs.aws.amazon.com/pt_br/emr/latest/EMR-on-EKS-DevelopmentGuide/emr-eks.html
+
 Link EMR: https://docs.aws.amazon.com/pt_br/emr/latest/ManagementGuide/emr-what-is-emr.html
