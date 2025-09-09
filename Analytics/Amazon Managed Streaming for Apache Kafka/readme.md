@@ -30,11 +30,11 @@ Como o Amazon MSK executa versões de código aberto do Kafka, você pode usar *
 
 
 ###  Casos de Uso
-- 📡 **Ingestão de dados em tempo real** de aplicativos, sites, IoT e logs de sistemas.  
-- 📊 **Streaming analytics** → integração com Flink, Lambda ou Redshift para insights imediatos.  
-- 🔄 **Replicação entre regiões** para continuidade de negócios e recuperação de desastres.  
-- 🔗 **Integração com ecossistema Kafka** (conectores, plugins, ferramentas da comunidade).  
-- 📥 **Pipelines de ETL em streaming** → ingestão, transformação e envio para data lakes ou warehouses.  
+-  **Ingestão de dados em tempo real** de aplicativos, sites, IoT e logs de sistemas.  
+-  **Streaming analytics** → integração com Flink, Lambda ou Redshift para insights imediatos.  
+-  **Replicação entre regiões** para continuidade de negócios e recuperação de desastres.  
+-  **Integração com ecossistema Kafka** (conectores, plugins, ferramentas da comunidade).  
+-  **Pipelines de ETL em streaming** → ingestão, transformação e envio para data lakes ou warehouses.  
 
 
 
